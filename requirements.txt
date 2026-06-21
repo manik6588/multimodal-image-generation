@@ -1,27 +1,85 @@
-brotlicffi @ file:///C:/miniconda3/conda-bld/brotlicffi_1764961372591/work
-certifi @ file:///C:/Users/task_177937038000344/croot/certifi_1779370454774/work/certifi
-cffi @ file:///C:/miniconda3/conda-bld/cffi_1761832794697/work
-charset-normalizer @ file:///C:/miniconda3/conda-bld/charset-normalizer_1761744944645/work
-filelock @ file:///C:/Users/task_178170271463724/croot/filelock_1781703359629/work
-gmpy2 @ file:///C:/miniconda3/conda-bld/gmpy2_1764748105976/work
-idna @ file:///C:/Users/task_178056140106162/croot/idna_1780561468696/work
-Jinja2 @ file:///C:/b/abs_920kup4e6u/croot/jinja2_1741711580669/work
-MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
+accelerate==1.15.0.dev0
+annotated-doc==0.0.4
+annotated-types==0.7.0
+anyio==4.14.0
+brotli==1.2.0
+brotlicffi==1.2.0.0
+certifi==2026.5.20
+cffi==2.0.0
+charset-normalizer==3.4.4
+click==8.4.1
+colorama==0.4.6
+diffusers==0.38.0
+exceptiongroup==1.3.1
+fastapi==0.138.0
+filelock==3.29.4
+fsspec==2026.6.0
+gmpy2==2.2.2
+gradio==6.19.0
+gradio_client==2.5.0
+groovy==0.1.2
+h11==0.16.0
+hf-gradio==0.4.1
+hf-xet==1.5.1
+httpcore==1.0.9
+httpx==0.28.1
+huggingface_hub==1.20.1
+idna==3.18
+importlib_metadata==9.0.0
+invisible-watermark==0.2.0
+Jinja2==3.1.6
+markdown-it-py==4.2.0
+MarkupSafe==3.0.2
+mdurl==0.1.2
+mkl_fft==1.3.11
+mkl_random==1.2.8
 mkl-service==2.4.0
-mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
-mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
-mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
-networkx @ file:///C:/b/abs_b054htfn9t/croot/networkx_1737043671910/work
-numpy @ file:///C:/b/abs_0123vcxhf8/croot/numpy_and_numpy_base_1725470331966/work/dist/numpy-2.0.1-cp310-cp310-win_amd64.whl#sha256=e824ec3b279f4c5207736c83ac2f2dc79b489e08501a4ea9e3fc178c45db289b
+mpmath==1.3.0
+networkx==3.4.2
+numpy==2.0.1
+opencv-python==4.13.0.92
+orjson==3.11.9
 packaging==26.0
-pillow @ file:///C:/b/abs_b50vowcrzo/croot/pillow_1738010273782/work
-pycparser @ file:///C:/Users/task_177495971250430/croot/pycparser_1774959822609/work
-PySocks @ file:///C:/miniconda3/conda-bld/pysocks_1761753030270/work
-PyYAML @ file:///C:/miniconda3/conda-bld/pyyaml_1763465513320/work
-requests @ file:///C:/Users/task_178034870038504/croot/requests_1780348785055/work
-sympy @ file:///C:/miniconda3/conda-bld/sympy_1764762978780/work
-torch==2.5.1
-torchvision==0.20.1
-typing_extensions @ file:///C:/b/abs_ecq8gc0vbm/croot/typing_extensions_1756281142218/work
-urllib3 @ file:///C:/Users/task_177853593812673/croot/urllib3_1778536217005/work
-win_inet_pton @ file:///C:/miniconda3/conda-bld/win_inet_pton_1761746276406/work
+pandas==2.3.3
+pillow==11.1.0
+pip==26.1.1
+psutil==7.2.2
+pycparser==3.0
+pydantic==2.13.4
+pydantic_core==2.46.4
+pydub==0.25.1
+Pygments==2.20.0
+pyrefly==1.1.1
+PySocks==1.7.1
+python-dateutil==2.9.0.post0
+python-multipart==0.0.32
+pytz==2026.2
+PyWavelets==1.8.0
+PyYAML==6.0.3
+regex==2026.5.9
+requests==2.34.2
+rich==15.0.0
+safehttpx==0.1.7
+safetensors==0.8.0
+semantic-version==2.10.0
+setuptools==82.0.1
+shellingham==1.5.4
+six==1.17.0
+starlette==1.3.1
+sympy==1.13.1
+tokenizers==0.22.2
+tomlkit==0.14.0
+torch==2.5.1+cu124
+torchaudio==2.5.1+cu124
+torchvision==0.20.1+cu124
+tqdm==4.68.3
+transformers==5.12.1
+typer==0.25.1
+typing_extensions==4.15.0
+typing-inspection==0.4.2
+tzdata==2026.2
+urllib3==2.7.0
+uvicorn==0.49.0
+wheel==0.47.0
+win_inet_pton==1.1.0
+zipp==4.1.0
