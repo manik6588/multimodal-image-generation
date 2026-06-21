@@ -1,0 +1,8 @@
+name: D:\conda\multimodal-image-generation\env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - torchvision
+  - pytorch-cuda=12.1
+prefix: D:\conda\multimodal-image-generation\env
