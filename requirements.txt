@@ -1,7 +1,7 @@
 accelerate @ git+https://github.com/huggingface/accelerate.git@fb77442677c85f6ebcd7a226588f60046cd6b301
 annotated-doc==0.0.4
 annotated-types==0.7.0
-anyio==4.14.0
+anyio==4.14.2
 brotli==1.2.0
 click==8.4.1
 colorama==0.4.6
